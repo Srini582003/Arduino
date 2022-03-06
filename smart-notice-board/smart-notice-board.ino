@@ -1,6 +1,4 @@
- 
-//Prateek
-//www.prateeks.in
+
 
 #include <ESP8266WiFi.h>
 #include <ESPAsyncTCP.h>
