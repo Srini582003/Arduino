@@ -1,12 +1,4 @@
-/* IoT based Notice Board using ESP8266/NodeMCU & 16x5 LCD Display
-  Author: Ashish Labade (Tech Vegan) https://www.ashishvegan.com
-  Subscribe My YouTube Channel: https://www.youtube.com/channel/UCs_dbtq_OF-0HxkAQnBGapA/
-  ####AdafrLiquidCrystal_I2C Library https://bit.ly/2PC19hp
-  ESP8266 Boards Integration Video https://youtu.be/cw8IGJX-Bio
 
-  ******** Register at https://iot.webumblebees.com and Generate API ********
-  **** NOT FOR COMMERCIAL/SELLING USE
-*/
 #include <ESP8266HTTPClient.h>
 #include<ESP8266WiFi.h>
 #include <LiquidCrystal_I2C.h>
